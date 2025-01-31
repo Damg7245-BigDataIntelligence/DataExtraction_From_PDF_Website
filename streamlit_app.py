@@ -8,7 +8,7 @@ import base64
 import io
 import fitz
 # API Configuration
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://fastapi-service-284663540593.us-central1.run.app"
 
 
 MAX_FILE_SIZE = 10 * 1024 * 1024  # 10MB
