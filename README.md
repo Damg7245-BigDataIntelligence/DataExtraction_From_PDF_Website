@@ -7,7 +7,7 @@ The system integrates **PyMuPDF, BeautifulSoup, Azure, Apify, and Docling** to e
 
 ## **🔹 Project Resources**
 - 📘 **Google Codelab:** [Codelab Link](https://codelabs-preview.appspot.com/?file_id=1usAx0qLEXFL69Lre5rC8xEt_LDOmLpTq5wOk0jLJ7Ss#4)  
-- 🌐 **App (Streamlit Cloud):** [Streamlit Link](https://dataextractionfrompdfwebsite-nsnz5lgkx9ak6fzgonaic9.streamlit.app/)  
+- 🌐 **App (Streamlit Cloud):** [Streamlit Link](https://dataextractionfrompdfwebsite-jy4he5ukj9eg2g7tfho9dh.streamlit.app/)  
 - 🎥 **YouTube Demo:** [Demo Link](https://youtu.be/7x4iwCADyJA)  
 
 ---
